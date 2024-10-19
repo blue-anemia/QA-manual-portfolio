@@ -45,7 +45,7 @@
 
 ## Чек-листы и тест-планы
 
-- [Чек-лист №1](ссылка_на_файл)
+- [Чек-лист №1](https://github.com/blue-anemia/QA-manual-portfolio/blob/d295c7d3ee90fd29f7a4bab08f069703ee2ccd38/check-lists/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20%E2%84%961.md)
 - [Тест-план №1](ссылка_на_файл)
 
 ## Другие артефакты
