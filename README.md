@@ -29,13 +29,19 @@
 
 ## Примеры баг-репортов
 
-- [Пример баг-репорта №1](ссылка_на_файл)
-- [Пример баг-репорта №2](ссылка_на_файл)
+- [Пример баг-репорта №1](https://github.com/blue-anemia/QA-manual-portfolio/blob/1741ad96a55fb78a3a38f10cd8a5b6daf3d6eb14/bug-reports/%D0%91%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%20%E2%84%961.md)
+- [Пример баг-репорта №2](https://github.com/blue-anemia/QA-manual-portfolio/blob/1741ad96a55fb78a3a38f10cd8a5b6daf3d6eb14/bug-reports/%D0%91%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%20%E2%84%962.md)
+- [Пример баг-репорта №3](https://github.com/blue-anemia/QA-manual-portfolio/blob/1741ad96a55fb78a3a38f10cd8a5b6daf3d6eb14/bug-reports/%D0%91%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%20%E2%84%963.md)
+- [Пример баг-репорта №4](https://github.com/blue-anemia/QA-manual-portfolio/blob/1741ad96a55fb78a3a38f10cd8a5b6daf3d6eb14/bug-reports/%D0%91%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%20%E2%84%964.md)
+- [Пример баг-репорта №5](https://github.com/blue-anemia/QA-manual-portfolio/blob/1741ad96a55fb78a3a38f10cd8a5b6daf3d6eb14/bug-reports/%D0%91%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%20%E2%84%965.md)
 
 ## Примеры тест-кейсов
 
-- [Тест-кейс №1](ссылка_на_файл)
-- [Тест-кейс №2](ссылка_на_файл)
+- [Тест-кейс №1](https://github.com/blue-anemia/QA-manual-portfolio/blob/1741ad96a55fb78a3a38f10cd8a5b6daf3d6eb14/test-cases/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%20%E2%84%961.md)
+- [Тест-кейс №2](https://github.com/blue-anemia/QA-manual-portfolio/blob/1741ad96a55fb78a3a38f10cd8a5b6daf3d6eb14/test-cases/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%20%E2%84%962.md)
+- [Тест-кейс №3](https://github.com/blue-anemia/QA-manual-portfolio/blob/1741ad96a55fb78a3a38f10cd8a5b6daf3d6eb14/test-cases/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%20%E2%84%963.md)
+- [Тест-кейс №4](https://github.com/blue-anemia/QA-manual-portfolio/blob/1741ad96a55fb78a3a38f10cd8a5b6daf3d6eb14/test-cases/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%20%E2%84%964.md)
+- [Тест-кейс №5](https://github.com/blue-anemia/QA-manual-portfolio/blob/1741ad96a55fb78a3a38f10cd8a5b6daf3d6eb14/test-cases/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%20%E2%84%965.md)
 
 ## Чек-листы и тест-планы
 
